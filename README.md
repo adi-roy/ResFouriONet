@@ -9,4 +9,5 @@ Accurate modeling of laser-tissue interactions is essential for applications suc
 
 We have drawn inspiration from the works of DeepONet, FNO, ResNet, U-Net, and Network in Network in designing the network architecture of ResFouriONet. 
 
-<img width="468" height="412" alt="image" src="https://github.com/user-attachments/assets/647b8b50-e764-44d5-8075-dcb893b96d64" />
+<img width="2480" height="2185" alt="architecture_github" src="https://github.com/user-attachments/assets/e682e01b-55bb-43da-8b73-54925cd8df40" />
+
