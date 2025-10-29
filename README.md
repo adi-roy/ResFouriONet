@@ -23,7 +23,6 @@ We evaluated the zero-shot performance of ResFouriONet on two representative MC-
 
 <img width="2480" height="1299" alt="Fig4_draft_v2_github" src="https://github.com/user-attachments/assets/c4839d6f-5908-4505-afe0-da2be189226e" />
 
-\n \n
 
 The following box and violin plots show the zero-shot inference performance of ResFouriONet across 630 MC-derived source functions, illustrating the dependence of predictive accuracy on key optical and geometrical parameters. 
 
