@@ -28,3 +28,17 @@ The following box and violin plots show the zero-shot inference performance of R
 
 <img width="2480" height="1512" alt="Fig5_draft_v2_box_github" src="https://github.com/user-attachments/assets/7cc3eac3-969c-429f-be98-6b92d1deab72" />
 
+## Citation
+
+If you find this work helpful, please consider citing us.
+
+```bibtex
+@article{Roy2025ResFouriONet,
+  author = {Aditya Roy and Andrew DuPlissis and Adela Ben-Yakar},
+  title = {ResFouriONet: A residual Fourier operator network with synthetic data generation for real-time laser-induced bioheat transfer modeling},
+  journal = {International Communications in Heat and Mass Transfer},
+  year = {2025},
+  volume = {170},
+  number = {109964},
+  doi = {https://doi.org/10.1016/j.icheatmasstransfer.2025.109964},
+}
